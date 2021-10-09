@@ -13,7 +13,7 @@ function App() {
         <nav>
             <ul>
                 <li>Oliver 🧑🏼‍🎓</li>
-                <li>Kaarina 🧑🏻‍🎓</li>
+                <li class="active">Kaarina 🧑🏻‍🎓</li>
                 <li>Ishaan 👨🏽‍🎓</li>
             </ul>
         </nav>
@@ -21,7 +21,7 @@ function App() {
     <div id="main" role="main">
             <section className="persona">
                 <h2>I moved from Ohio 🇺🇲 to pursue a masters in Business Adminstration 📈</h2>
-                <img id="student-graphic" src="kaarina.png" alt="" />
+                <img id="student-graphic" src="https://fieldmap.s3.eu-north-1.amazonaws.com/kaarina.png" alt="" />
             </section>
             <section id="studies-container">
                 <nav>
