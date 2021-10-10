@@ -23,9 +23,9 @@ const ExperienceMap = () => {
   return <React.Fragment>
       <nav id="persona-nav">
           <ul>
-              <li onClick={() => setName("Oliver")} className={name==="Oliver" ? "active" : ""}>Oliver 🧑🏼‍🎓</li>
-              <li onClick={() => setName("Kaarina")} className={name==="Kaarina" ? "active" : ""}>Kaarina 🧑🏻‍🎓</li>
-              <li onClick={() => setName("Ishaan")} className={name==="Ishaan" ? "active" : ""}>Ishaan 👨🏽‍🎓</li>
+              <li onClick={() => {setName("Oliver"); setYear(1)}} className={name==="Oliver" ? "active" : ""}>Oliver 🧑🏼‍🎓</li>
+              <li onClick={() => {setName("Kaarina"); setYear(1)}} className={name==="Kaarina" ? "active" : ""}>Kaarina 🧑🏻‍🎓</li>
+              <li onClick={() => {setName("Ishaan"); setYear(1)}} className={name==="Ishaan" ? "active" : ""}>Ishaan 👨🏽‍🎓</li>
           </ul>
       </nav>
       {data.hits.map((item, index) => (
