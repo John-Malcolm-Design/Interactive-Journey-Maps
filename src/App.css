@@ -1,4 +1,19 @@
 
+*{
+	box-sizing: border-box;
+}
+
+body{
+  margin: 20px;
+	color: #444;
+	background:linear-gradient( rgba(248, 248, 255, 0.20) 100%, rgba(248, 248, 255, 0.20)100%), url('https://fieldmap.s3.eu-north-1.amazonaws.com/so-white.png');
+  min-height: 100%;
+}
+
+.App{
+  margin: 0px auto;
+  max-width: 1600px;
+}
 
 .persona{
   padding-left: 10%;
