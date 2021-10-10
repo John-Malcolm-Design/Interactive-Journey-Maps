@@ -14,3 +14,10 @@ header h2{
 #persona-nav li:hover{
     cursor: pointer;
 }
+
+@media all and (max-width:500px){
+    header h1 {
+        width: 100%;
+    }
+    
+}
