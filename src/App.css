@@ -53,17 +53,10 @@ h1 {
 }
 
 #studies-container > nav > ul > li:hover{ 
-  background-color: #78bb97;
+  background-color: #cb368f;
   cursor: pointer;
   color: white;
-  border-color: #78bb97;
-}
-
-#studies-container > nav > ul > li:active{ 
-  background-color: #78bb97;
-  cursor: pointer;
-  color: white;
-  border-color: #2f9b62;
+  border-color: #cb368f;
 }
 
 #year-strip{
