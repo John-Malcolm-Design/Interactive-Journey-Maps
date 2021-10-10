@@ -8,15 +8,13 @@
 .persona > h2{
   align-self: center;
   text-align: right;
-  padding-bottom: 25px;
-  padding-right: 10px;
   max-width: 600px;
   font-weight: 100;
   font-size: 1.8em;
   line-height: 1.4em;
 } 
 h1 {
-  font-size: 1.4em;
+  font-size: 1.2em;
   font-family: 'Roboto', sans-serif;
   background: #cb368f;
   padding: 10px;
@@ -30,8 +28,8 @@ h1 {
 }
 #student-graphic{
   float: right;
-  height: 250px;
-  margin-right: 50px;
+  height: 300px;
+  margin-right: 0px;
 }
 #studies-container > nav{
   width: 10%;
