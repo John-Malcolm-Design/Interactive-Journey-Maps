@@ -38,12 +38,17 @@
     }
 
     #persona-nav{
+        width: 100%;
         margin-bottom: 20px;
     }
 
     #persona-nav li {
-        margin-left: 0px; 
+        margin-left: 10px;
+        flex-grow: 4;
+        margin: 0px 5px;
+        padding: 10px;
     }
+    
     #student-graphic {
         height: 200px;
     }
