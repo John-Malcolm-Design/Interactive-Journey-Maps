@@ -1,0 +1,32 @@
+#persona-nav{
+    align-self: flex-end;
+    margin-bottom: 40px;
+}
+
+#persona-nav ul{
+    display: flex;
+    flex-flow: row;
+}
+
+#persona-nav li{
+    font-weight: bold;
+    margin-left: 10px;
+    padding: 10px 20px;
+    background: whitesmoke;
+}
+
+#persona-nav li.active{
+    background:#2f9b62;
+    color: white;
+}
+
+#persona-nav li:hover{
+    cursor: pointer;
+    background:#2f9b62;
+    color: white;
+}
+
+#studies-container .active{
+    background-color:#2f9b62;
+    color: white;
+}
