@@ -1,4 +1,47 @@
 #main{
     display: flex;
     flex-direction: column;
+    margin-top: 20px;
+}
+
+@media all and (max-width:850px){
+    body{
+        margin: 10px;
+    }
+}
+
+@media all and (max-width:700px){
+    body{
+        margin: 0px;
+    }
+    header h2 {
+        margin: 0px 10px;
+    }
+    .story-tile {
+        width: 100%;
+    }
+    #year-strip {
+        width: 80%;
+        flex-direction: column;
+    }
+    #studies-container > nav {
+        width: 20%;
+    }
+    
+}
+
+@media all and (max-width:540px){
+    .persona {
+        padding-left: 0px;
+        display: block;
+    }
+
+    .persona > h2 {
+        text-align: left;
+        margin: 0px 20px;
+    }
+
+    #persona-nav li {
+        margin: 0px; 
+    }
 }
