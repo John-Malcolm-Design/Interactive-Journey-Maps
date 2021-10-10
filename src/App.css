@@ -48,7 +48,7 @@ h1 {
 }
 #studies-container > nav{
   width: 10%;
-  text-align: right;
+  text-align: center;
   border-right: 10px solid whitesmoke;
 }
 #studies-container > nav > ul{ 
@@ -62,9 +62,8 @@ h1 {
 #studies-container > nav > ul > li{ 
   font-weight: bold;
   padding: 8px 10px;
-  border: 2px solid whitesmoke;
   background-color: whitesmoke;
-  margin-bottom: 5px;
+  border-bottom: 1px solid #d1c9ce;
 }
 
 #studies-container > nav > ul > li:hover{ 
@@ -72,13 +71,6 @@ h1 {
   cursor: pointer;
   color: white;
   border-color: #cb368f;
-}
-
-#studies-container > nav > ul > li:active{ 
-  background-color: #2f9b62;
-  cursor: pointer;
-  color: white;
-  border-color: #2f9b62;
 }
 
 #year-strip{
@@ -121,4 +113,5 @@ h1 {
   color: #444444;
   font-weight: bold;
   padding: 10px;
+  border-bottom: 1px solid #d1c9ce;
 }

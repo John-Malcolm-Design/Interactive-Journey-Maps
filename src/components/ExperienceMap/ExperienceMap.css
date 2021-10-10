@@ -15,14 +15,14 @@
     background: whitesmoke;
 }
 
-#persona-nav li.active{
-    background:#2f9b62;
-    color: white;
-}
-
 #persona-nav li:hover{
     cursor: pointer;
     background:#cb368f;
+    color: white;
+}
+
+#persona-nav li.active{
+    background:#2f9b62;
     color: white;
 }
 
