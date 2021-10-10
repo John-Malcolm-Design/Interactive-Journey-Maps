@@ -30,3 +30,24 @@
     background-color:#2f9b62;
     color: white;
 }
+
+@media all and (max-width:540px){
+    .persona {
+        padding-left: 0px;
+        display: block;
+    }
+
+    .persona > h2 {
+        font-size: 1.6em;
+        text-align: left;
+        margin: 0px 20px;
+    }
+
+    #persona-nav{
+        margin-bottom: 20px;
+    }
+
+    #persona-nav li {
+        margin-left: 0px; 
+    }
+}

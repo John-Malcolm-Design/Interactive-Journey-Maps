@@ -74,6 +74,13 @@ h1 {
   border-color: #cb368f;
 }
 
+#studies-container > nav > ul > li:active{ 
+  background-color: #2f9b62;
+  cursor: pointer;
+  color: white;
+  border-color: #2f9b62;
+}
+
 #year-strip{
   display: flex;
   flex-flow: row nowrap;
@@ -107,4 +114,11 @@ h1 {
   font-size: 1em;
   line-height: 1.2em;
   font-weight: 400;
+}
+
+#studies-container > nav > ul > span {
+  background-color: #f5f5f5;
+  color: #444444;
+  font-weight: bold;
+  padding: 10px;
 }
