@@ -39,10 +39,10 @@ const ExperienceMap = () => {
                 <section id="studies-container">
                   <nav>
                     <ul>
-                        <li onClick={() => setYear(1)} className={year===1 ? "active" : ""}>1</li>
-                        <li onClick={() => setYear(2)} className={year===2 ? "active" : ""}>2</li>
-                        <li onClick={() => setYear(3)} className={year===3 ? "active" : ""}>3</li>
-                        <li onClick={() => setYear(4)} className={year===4 ? "active" : ""}>4</li>
+                        <li onClick={() => setYear(1)} className={year===1 ? "active" : ""}>Year 1</li>
+                        <li onClick={() => setYear(2)} className={year===2 ? "active" : ""}>Year 2</li>
+                        <li onClick={() => setYear(3)} className={year===3 ? "active" : ""}>Year 3</li>
+                        <li onClick={() => setYear(4)} className={year===4 ? "active" : ""}>Year 4</li>
                     </ul>
                   </nav>
                   <div id="year-strip">
