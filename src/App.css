@@ -67,10 +67,7 @@ h1 {
 }
 
 #studies-container > nav > ul > li:hover{ 
-  background-color: #cb368f;
   cursor: pointer;
-  color: white;
-  border-color: #cb368f;
 }
 
 #year-strip{
