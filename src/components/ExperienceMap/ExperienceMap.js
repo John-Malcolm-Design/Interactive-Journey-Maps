@@ -48,26 +48,26 @@ const ExperienceMap = () => {
                   <div id="year-strip">
                     <div className="story-tile" style={{background: "#ff8d0014"}}>
                         <div>
-                            <h3>❤️ &nbsp;Life</h3>
+                            <h3>❤️ &nbsp;{name}'s Life</h3>
                             <p>{item.Life}</p>
                         </div>
                         
                     </div>
                     <div className="story-tile" style={{background: "#ffff0014"}}>
                         <div>
-                            <h3>🧑‍🎓 &nbsp;Study</h3>
+                            <h3>🧑‍🎓 &nbsp;{name}'s Studies</h3>
                         <p>{item.Study}</p>
                         </div>
                     </div>
                     <div className="story-tile" style={{background: "#ff8d0014"}}>
                         <div>
-                            <h3>🌐 &nbsp;Networks</h3>
+                            <h3>🌐 &nbsp;{name}'s Networks</h3>
                             <p>{item.Network}</p>
                         </div>
                     </div>
                     <div className="story-tile" style={{background: "#ffff0014"}}>
                         <div>
-                            <h3>💵 &nbsp;Income</h3>
+                            <h3>💵 &nbsp;{name}'s Income</h3>
                             <p>{item.Income}</p>
                         </div>
                     </div>
