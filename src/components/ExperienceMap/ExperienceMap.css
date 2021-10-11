@@ -48,8 +48,27 @@
         margin: 0px 5px;
         padding: 10px;
     }
+
+    #year-strip {
+        width: 100%;
+    }
+
+    #studies-container {
+        flex-direction: column;
+    }
     
     #student-graphic {
         height: 200px;
+    }
+    #studies-container > nav {
+        width: 100%;
+    }
+    #studies-container > nav > ul {
+        flex-flow: row;
+    }
+
+    #studies-container > nav > ul > li {
+        padding: 10px;
+        flex-grow: 1;
     }
 }
