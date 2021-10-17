@@ -1,17 +1,21 @@
 # Access Finland: Co-Design Workhop
-**Personas & Journey Maps**
 
 The repo contains an interactive website which was shared with workshop participants interested in developing an association for International Students at Aalto University. The workshop focused on solutions to improve the overall integration and job search experience of international students, to reduce inequality in this important area. 
 
 The website works by showcasing personas and journey maps based on our user interviews. This website facilitates greater prepardness and deeper empathy with the design subject, which helped facilitate a more productive workshop.
 
-## The Personas 
+## Personas 
 <img src="https://fieldmap.s3.eu-north-1.amazonaws.com/ishaan.png" alt="ishaan" width="200"/><img src="https://fieldmap.s3.eu-north-1.amazonaws.com/kaarina.png" alt="kaarina" width="200"/><img src="https://fieldmap.s3.eu-north-1.amazonaws.com/oliver.png" alt="oliver" width="200"/>
 
 Ishaan, Kaarina & Oliver are the three personas developed for the project. All three were illustrated using Adobe Illustrator. You can access the Illustrator file in [Creative Cloud here](https://assets.adobe.com/id/urn:aaid:sc:EU:7cb1e597-e358-47da-9404-c1128bc0198e?view=difile)
 
 ## Journey Maps
-Notion
+Our Journey maps are based on user interviews, but do not represent any single experience. If you have any comments on what we have created you can leave a note on our [Notion](https://johnmalc.notion.site/09f3924fb3ba4807ab8f364e007824b1?v=9d11666c4d69448e9850801b7f344545).
+
+## Workshop 
+The workshop is currently being run in virtually and we are using Miro to facilitate the interactive elements. See screenshot below.
+
+## Workshop Output
 
 ## Running & Building the Site
 
