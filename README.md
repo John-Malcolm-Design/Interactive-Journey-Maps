@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Access Finland: Co-Design Workhop
+**Personas & Journey Maps**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The repo contains an interactive website which was shared with workshop participants interested in developing an association for International Students at Aalto University. The workshop focused on solutions to improve the overall integration and job search experience of international students, to reduce inequality in this important area. 
+
+The website works by showcasing personas and journey maps based on our user interviews. This website facilitates greater prepardness and deeper empathy with the design subject, which helped facilitate a more productive workshop.
+
+## Personas 
+Illustrator
+
+## Journey Maps
+Notion
+
+## Running & Building the Site
+
+## Hosting the Site
+
 
 ## Available Scripts
 
