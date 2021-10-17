@@ -12,7 +12,7 @@ Ishaan, Kaarina & Oliver are the three personas developed for the project. All t
 Our Journey maps are based on user interviews, but do not represent any single experience. If you have any comments on what we have created you can leave a note on our [Notion](https://johnmalc.notion.site/09f3924fb3ba4807ab8f364e007824b1?v=9d11666c4d69448e9850801b7f344545).
 
 ## Collaborative Workshop 
-The workshop is currently being run in virtually and we are using Miro to facilitate the interactive elements. The output of our workshops are the organisational pillars, activities and platforms, which will be further elaborated into a manifesto. 
+The workshop is currently being run in virtually and we are using Miro to facilitate the interactive elements. The output of our workshops are the organisational pillars, activities and platforms, which will be further elaborated into a manifesto. The platforms in the schema below are to clarify when the assoication owns an activity, or when they collaborate with already existing platforms to further elaborate the service for the international community of Aalto.
 
 <img src="https://user-images.githubusercontent.com/8799141/137639669-a9bf6900-013e-4a8a-84c4-458a0b4668ea.png" alt="oliver" width="400"/> <img src="https://user-images.githubusercontent.com/8799141/137640364-391ba035-3347-48b8-9723-e4d186f55208.png" alt="oliver" width="400"/>
 
