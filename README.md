@@ -14,11 +14,12 @@ Our Journey maps are based on user interviews, but do not represent any single e
 ## Collaborative Workshop 
 The workshop is currently being run in virtually and we are using Miro to facilitate the interactive elements. The output of our workshops are the organisational pillars, activities and platforms, which will be further elaborated into a manifesto. 
 
-<img src="https://user-images.githubusercontent.com/8799141/137639669-a9bf6900-013e-4a8a-84c4-458a0b4668ea.png" alt="oliver" width="400"/> <img src="https://user-images.githubusercontent.com/8799141/137640239-cf5823cf-b27d-4303-a457-e108d78888d2.png" alt="oliver" width="400"/>
+<img src="https://user-images.githubusercontent.com/8799141/137639669-a9bf6900-013e-4a8a-84c4-458a0b4668ea.png" alt="oliver" width="400"/> <img src="https://user-images.githubusercontent.com/8799141/137640364-391ba035-3347-48b8-9723-e4d186f55208.png" alt="oliver" width="400"/>
 
 ## Running & Building the Site
 
 ## Hosting the Site
+
 
 
 ## Available Scripts
